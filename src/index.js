@@ -1,5 +1,4 @@
 import React from 'react';
-import { useContext, useEffect, useRef } from "react";
 import ReactDOM from 'react-dom';
 import 'semantic-ui-css/semantic.min.css';
 import './app/layout/styles.css'
